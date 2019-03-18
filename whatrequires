@@ -1,1 +1,7 @@
 # This file contains recursive sources that require this package
+R-clue
+R-dendextend
+R-mvoutlier
+R-phylogram
+R-robCompositions
+R-seriation
