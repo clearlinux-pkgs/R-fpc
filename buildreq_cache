@@ -1,14 +1,3 @@
 2.2.3
-R-DEoptimR
-R-EMMIXskew
-R-diptest
-R-flexmix
-R-kernlab
-R-mclust
 R-modeltools
-R-mvtnorm
-R-pdfCluster
-R-prabclus
-R-robustbase
-R-tclust
 R-trimcluster
