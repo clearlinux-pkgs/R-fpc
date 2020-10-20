@@ -4,7 +4,7 @@
 #
 Name     : R-fpc
 Version  : 2.2.8
-Release  : 40
+Release  : 41
 URL      : https://cran.r-project.org/src/contrib/fpc_2.2-8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fpc_2.2-8.tar.gz
 Summary  : Flexible Procedures for Clustering
