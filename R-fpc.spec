@@ -7,7 +7,7 @@
 #
 Name     : R-fpc
 Version  : 2.2.11
-Release  : 65
+Release  : 66
 URL      : https://cran.r-project.org/src/contrib/fpc_2.2-11.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fpc_2.2-11.tar.gz
 Summary  : Flexible Procedures for Clustering
